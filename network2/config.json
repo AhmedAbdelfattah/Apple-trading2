@@ -3,19 +3,22 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "www.applebiome.com",
-    "link": "www.applebiome.com",
+    "file": "https://applebiome.com/",
+    "link": "https://applebiome.com/",
     "text": "Ahmed Abdelfattah"
   },
   "text": {
-    "more": "",
+    "more": "https://applebiome.com/",
     "intro": "",
-    "title": "Apple Trading 2017"
+    "title": "Global Fresh Apple  Fruit Trading 2017"
   },
   "legend": {
     "edgeLabel": "Export and Import value",
     "colorLabel": "link",
-    "nodeLabel": "Country name"
+    "nodeLabel": "Country name",
+    "Size of the node ="" production in tons",
+    "Edge thinness = export value"
+    "Edge direction = (clockwise = export) (anticlockwise = import)"
   },
   "features": {
     "search": true,
@@ -23,7 +26,7 @@
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": "production in tons"
   },
   "sigma": {
