@@ -17,8 +17,8 @@
     "colorLabel": "link",
     "nodeLabel": "Country name",
     "Size of the node ="" production in tons",
-    "Edge thinness = export value"
-    "Edge direction = (clockwise = export) (anticlockwise = import)"
+    "Edge thinness = export value",
+    "Edge direction = (clockwise = export) (anticlockwise = import)",
   },
   "features": {
     "search": true,
